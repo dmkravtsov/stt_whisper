@@ -1,10 +1,3 @@
-import time
-import logging
-import whisper
-from jiwer import wer
-import librosa
-import numpy as np
-
 # import subprocess
 # import sys
 
